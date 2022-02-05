@@ -1,0 +1,26 @@
+{
+  "name": "advanced-hooks",
+  "version": "1.0.0",
+  "description": "A package that provides many hooks that facilitate the development of the application.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "RFG-G",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "@testing-library/react-hooks": "^7.0.2",
+    "babel-jest": "^27.5.0",
+    "jest": "^27.5.0"
+  }
+}
